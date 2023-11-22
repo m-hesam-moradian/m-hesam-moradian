@@ -1,67 +1,68 @@
-<p align="left">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
-</p> 
 
-<h1>Hi Buddy 😍</h1> 
-<p>My Name Is Hesam & Im A FrontEnd Developer.</p> 
-<p>Check This  <a href='https://m-hesam-moradian.github.io/Portfolio/'>Url</a> For More Info About Me </a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome&height=100&section=header"/>
 
- 
- 
-### social network 
- 
-<a href="https://www.linkedin.com/in/m-hesam-moradian/" target="_blank"><img class="icon" align="left" alt="instagram" width="30px" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png" /></a>
-<a href="https://github.com/m-hesam-moradian" target="_blank"><img class="icon"  width="30px" align="left" alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" /></a>
-<a href="http://T.me/m-hesam-moradian" target="_blank"><img class="icon" align="left" alt="telegram" width="30px" src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" /></a>
+<img src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/85b0a901-733c-493b-9f98-14def92de837' width='10%' /> <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9a89ff&random=false&width=435&lines=Hello%2C+I%E2%80%99m+Hesam+Moradian;Im+a+FrontEnd+Developer'  width='60%' >
 
+<img align="right" width='100%' src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-<br />
-<br />
+  <br><br>
 
-### Languages and Tools
+<p align="center"> I am a new software engineering student 
+  I've recently done learning the React framework.</p>
 
-<div>
-<!--  <a href=" https://nextjs.org/" target="_blank"><img class="icon" align="left" alt="redux" width="32px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" /> -->
-  <a href="https://react.dev/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=200&id=NfbyHexzVEDk&format=png" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img class="icon" align="left" alt="Javascript" width="35px" src="https://img.icons8.com/fluency/48/null/javascript.png" />
-<!--   <a href="https://www.typescriptlang.org/" target="_blank"><img class="icon" align="left"   width="35px" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png" /> -->
-<!--     <a href="https://tailwindcss.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=CIAZz2CYc6Kc&format=png" /> -->
-   
-  <a href="https://getbootstrap.com/" target="_blank"><img class="icon" align="left" alt="react" width="32px" src="https://img.icons8.com/?size=48&id=EzPCiQUqWWEa&format=png" />
-    <a href="https://mui.com/" target="_blank"> <img class="icon" align="left"   width="32px" src="https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png" />
-    <a href="https://firebase.google.com/" target="_blank"> <img  class="icon" align="left"   width="32px" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
-
-  <a href="https://git-scm.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/color/48/git.png" />
-  <a href="https://github.com/" target="_blank"> <img class="icon" align="left" alt="GitHub" width="32px" src="https://img.icons8.com/3d-fluency/94/null/github.png" />
-          
-
-   
+<div align="center">
   
-  
+<img  src='https://visitcount.itsvg.in/api?id=m-hesam-moradian&label=Profile%20Views&color=3&icon=5&prett'>
+
+</div>
+ 
+<br><br>
+
+<img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Skills & Tools__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+
+<br><br>
+
+<div align='center' width='100%'>
+
+|<img src='https://img.icons8.com/office/160/react.png' width='100%' height='100'>|<img src='https://img.icons8.com/color/96/javascript--v1.png' width='100%' height='100'>|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100%' height='100'>|<img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' width='100%' height='100'>|<img src='https://img.icons8.com/color/96/firebase.png' width='100%' height='100'>|
+|--|--|--|--|--|
+|<img src='https://img.icons8.com/color/96/git.png' width='100%' height='100'>|<img src='https://img.icons8.com/color/144/css3.png' width='100%' height='100'>|<img src='https://img.icons8.com/color/96/null/visual-studio-code-2019.png' width='100%' height='100'>|<img src='https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png' width='100%' height='100'>|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100%' height='100'>|
 
 </div>
 
-<br />
+<br><br>
 
-<br />
+<img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' >__GitHub Stats__</span>  <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
-### Softwares
+<br><br>
 
-<div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" />
-  <a href="https://www.figma.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png" />
-  <a href="https://www.postman.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png" /><br />
-<br />
+<div display='flex' align='center'>
 
-</div><br />
-<br />
+<img src='https://github-readme-stats.vercel.app/api?username=m-hesam-moradian&show_icons=true&theme=dark' width='45%' height='190'> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=m-hesam-moradian&layout=donut&https://github.com/m-hesam-moradian/github-readme-stats&theme=dark' dark='54%' height='190'>
+
+</div>
 
 
-<hr/>
+  <br><br>
+
+<img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Contact Me__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+
+<br><br>
+
+<p align='center'>
+
+<a href="https://www.linkedin.com/in/m-hesam-moradian/" target="_blank">
+    <img class="icon"  alt="instagram" src="https://img.icons8.com/3d-fluency/94/null/linkedin.png" /></a>
+<a href="https://github.com/m-hesam-moradian" target="_blank">
+    <img class="icon"    alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" />
+</a>
+<a href="http://T.me/m-hesam-moradian" target="_blank">
+    <img class="icon"  alt="telegram"  src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" />
+</a>
 
 
+</p>
+ 
+<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-hesam-moradian&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr/>
 
