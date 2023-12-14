@@ -17,22 +17,25 @@
 </div>
  
 <br><br>
-
-<img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Skills & Tools__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
-
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
 <br><br>
 
 <div align='center' width='100%'>
 
-|<img src='https://img.icons8.com/office/160/react.png' width='100%' height='100'>|<img src='https://img.icons8.com/color/96/javascript--v1.png' width='100%' height='100'>|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100%' height='100'>|<img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' width='100%' height='100'>|<img src='https://img.icons8.com/color/96/firebase.png' width='100%' height='100'>|
+|<img src='https://img.icons8.com/office/160/react.png' width='100' >|<img src='https://img.icons8.com/color/96/javascript--v1.png' width='100'>|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100'>|<img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' width='100' >|<img src='https://img.icons8.com/color/96/firebase.png' width='100' >|
 |--|--|--|--|--|
-|<img src='https://img.icons8.com/color/96/git.png' width='100' height='100'>|<img src='https://img.icons8.com/color/144/css3.png' width='100' height='100'>|<img src='https://img.icons8.com/color/96/null/visual-studio-code-2019.png' width='100' height='100'>|<img src='https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png' width='100' height='100'>|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100' height='100'>|
+|<img src='https://img.icons8.com/color/96/git.png' width='100'  >|<img src='https://img.icons8.com/color/144/css3.png' width='100'   >|<img src='https://img.icons8.com/color/96/null/visual-studio-code-2019.png' width='100'    >|<img src='https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png' width='100'     >|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100'      >|
 
 </div>
 
 <br><br>
 
-<img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' >__GitHub Stats__</span>  <img width='45%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > GitHub Stats </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
 
 <br><br>
 
@@ -45,7 +48,9 @@
 
   <br><br>
 
-<img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Contact Me__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Contact Me </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
 
 <br><br>
 
