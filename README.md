@@ -24,9 +24,9 @@
 
 <div align='center' width='100%'>
 
-|<img src='https://img.icons8.com/office/160/react.png' width='100' >|<img src='https://img.icons8.com/color/96/javascript--v1.png' width='100'>|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100'>|<img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' width='100' >|<img src='https://img.icons8.com/color/96/firebase.png' width='100' >|
+|<img src='https://img.icons8.com/office/160/react.png' width='100' >|<img src='https://img.icons8.com/color/96/javascript--v1.png' width='100'>|<img src='https://img.icons8.com/color/96/tailwind_css.png' width='100'     >|<img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' width='100' >|<img src='https://img.icons8.com/color/96/firebase.png' width='100' >|
 |--|--|--|--|--|
-|<img src='https://img.icons8.com/color/96/git.png' width='100'  >|<img src='https://img.icons8.com/color/144/css3.png' width='100'   >|<img src='https://img.icons8.com/color/96/null/visual-studio-code-2019.png' width='100'    >|<img src='https://img.icons8.com/?size=512&id=W0YEwBDDfTeu&format=png' width='100'     >|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100'      >|
+|<img src='https://img.icons8.com/color/96/git.png' width='100'  >|<img src='https://img.icons8.com/color/96/typescript.png' width='100'   >|<img src='https://img.icons8.com/color/144/css3.png' width='100'    >|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100'>|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100'      >|
 
 </div>
 
@@ -61,6 +61,7 @@
 <a href="https://github.com/m-hesam-moradian" target="_blank">
     <img class="icon"    alt="Github"  src="https://img.icons8.com/3d-fluency/94/null/github.png" />
 </a>
+
 <a href="http://T.me/m-hesam-moradian" target="_blank">
     <img class="icon"  alt="telegram"  src="https://img.icons8.com/?size=100&id=k4jADXhS5U1t&format=png" />
 </a>
