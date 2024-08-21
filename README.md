@@ -7,8 +7,7 @@
 
   <br><br>
 
-<p align="center"> I am a new software engineering student 
-  I've recently done learning the React framework.</p>
+
 
 <div align="center">
   
