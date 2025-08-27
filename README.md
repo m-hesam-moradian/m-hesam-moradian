@@ -25,7 +25,9 @@
 
 |<img src='https://img.icons8.com/office/160/react.png' width='100' >|<img src='https://img.icons8.com/color/96/javascript--v1.png' width='100'>|<img src='https://img.icons8.com/color/96/tailwind_css.png' width='100'     >|<img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' width='100' >|<img src='https://img.icons8.com/color/96/firebase.png' width='100' >|
 |--|--|--|--|--|
-|<img src='https://img.icons8.com/office/160/react.png' width='100' >|<img src='https://img.icons8.com/color/96/javascript--v1.png' width='100'>|<img src='https://img.icons8.com/color/96/tailwind_css.png' width='100'     >|<img src='https://img.icons8.com/?size=512&id=gFw7X5Tbl3ss&format=png' width='100' >|<img src='https://img.icons8.com/color/96/firebase.png' width='100' >|
+|<img src='https://img.icons8.com/color/96/git.png' width='100'  >|<img src='https://img.icons8.com/color/96/typescript.png' width='100'   >|<img src='https://img.icons8.com/color/144/css3.png' width='100'    >|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100'>|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100'      >|
+|--|--|--|--|--|
+|<img src='https://img.icons8.com/color/96/git.png' width='100'  >|<img src='https://img.icons8.com/color/96/typescript.png' width='100'   >|<img src='https://img.icons8.com/color/144/css3.png' width='100'    >|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100'>|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100'      >|
 |--|--|--|--|--|
 |<img src='https://img.icons8.com/color/96/git.png' width='100'  >|<img src='https://img.icons8.com/color/96/typescript.png' width='100'   >|<img src='https://img.icons8.com/color/144/css3.png' width='100'    >|<img src='https://img.icons8.com/fluency/96/bootstrap.png' width='100'>|<img src='https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png' width='100'      >|
 
