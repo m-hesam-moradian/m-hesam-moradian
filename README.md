@@ -17,53 +17,49 @@
  
 <br><br>
 <div align='center' width='100%'>
-<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools (🧠 Full Stack Development ) </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 </div>
 <br><br>
 
 <div align='center' width='100%'>
 
-<div align='center' width='100%'>
-
-| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/96/nextjs.png" width="100"> | <img src="https://img.icons8.com/color/96/vue-js.png" width="100"> |
-|--|--|--|--|
-| <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/express.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> |
-
-</div>
-
-
-
-</div>
-
-<br><br>
-<div align='center' width='100%'>
-<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
-</div>
-<br><br>
-
-<div align='center' width='100%'>
-
-| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/firebase.png" width="100"> |
+| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/96/nextjs.png" width="100"> | <img src="https://img.icons8.com/color/96/vue-js.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> |
 |--|--|--|--|--|
-| <img src="https://img.icons8.com/color/96/git.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/144/css3.png" width="100"> | <img src="https://img.icons8.com/fluency/96/bootstrap.png" width="100"> | <img src="https://img.icons8.com/color/96/mongodb.png" width="100"> |
+| <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/express.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/bootstrap.png" width="100"> | <img src="https://img.icons8.com/color/96/firebase.png" width="100">
+
 
 
 </div>
 
 <br><br>
 <div align='center' width='100%'>
-<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools (🔗 Blockchain Development)</span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 </div>
 <br><br>
 
 <div align='center' width='100%'>
 
-| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/firebase.png" width="100"> |
+| <img src="https://img.icons8.com/color/96/solidity.png" width="100"> | <img src="https://img.icons8.com/color/96/hardhat.png" width="100"> | <img src="https://img.icons8.com/color/96/ethereum.png" width="100"> | <img src="https://img.icons8.com/color/96/web3.png" width="100"> | <img src="https://img.icons8.com/color/96/truffle.png" width="100"> |
 |--|--|--|--|--|
-| <img src="https://img.icons8.com/color/96/git.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/144/css3.png" width="100"> | <img src="https://img.icons8.com/fluency/96/bootstrap.png" width="100"> | <img src="https://img.icons8.com/color/96/mongodb.png" width="100"> |
-
+| <img src="https://img.icons8.com/color/96/ganache.png" width="100"> | <img src="https://img.icons8.com/color/96/waffle.png" width="100"> | <img src="https://img.icons8.com/color/96/chai.png" width="100"> | <img src="https://img.icons8.com/color/96/metamask.png" width="100"> | <img src="https://img.icons8.com/color/96/ethers.png" width="100"> |
 
 </div>
+
+
+<br><br>
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools (🧪 Machine Learning & Data Engineering) </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+<br><br>
+
+<div align='center' width='100%'>
+
+| <img src="https://img.icons8.com/color/96/python.png" width="100"> | <img src="https://img.icons8.com/color/96/excel.png" width="100"> | <img src="https://img.icons8.com/color/96/numpy.png" width="100"> | <img src="https://img.icons8.com/color/96/pandas.png" width="100"> | <img src="https://img.icons8.com/color/96/scikit-learn.png" width="100"> |
+|--|--|--|--|--|
+| <img src="https://img.icons8.com/color/96/data-management.png" width="100"> | <img src="https://img.icons8.com/color/96/statistics.png" width="100"> | <img src="https://img.icons8.com/color/96/optimization.png" width="100"> | <img src="https://img.icons8.com/color/96/deep-learning.png" width="100"> | <img src="https://img.icons8.com/color/96/jupyter.png" width="100"> |
+
+</div>
+
 
 <br><br>
 
