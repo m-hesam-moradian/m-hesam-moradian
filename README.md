@@ -23,9 +23,14 @@
 
 <div align='center' width='100%'>
 
-| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/firebase.png" width="100"> |
-|--|--|--|--|--|
-| <img src="https://img.icons8.com/color/96/git.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/144/css3.png" width="100"> | <img src="https://img.icons8.com/fluency/96/bootstrap.png" width="100"> | <img src="https://img.icons8.com/color/96/mongodb.png" width="100"> |
+<div align='center' width='100%'>
+
+| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/96/nextjs.png" width="100"> | <img src="https://img.icons8.com/color/96/vue-js.png" width="100"> |
+|--|--|--|--|
+| <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/express.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> |
+
+</div>
+
 
 
 </div>
