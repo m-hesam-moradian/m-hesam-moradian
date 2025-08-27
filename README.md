@@ -26,8 +26,37 @@
 | <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/firebase.png" width="100"> |
 |--|--|--|--|--|
 | <img src="https://img.icons8.com/color/96/git.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/144/css3.png" width="100"> | <img src="https://img.icons8.com/fluency/96/bootstrap.png" width="100"> | <img src="https://img.icons8.com/color/96/mongodb.png" width="100"> |
+
+
+</div>
+
+<br><br>
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+<br><br>
+
+<div align='center' width='100%'>
+
+| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/firebase.png" width="100"> |
 |--|--|--|--|--|
 | <img src="https://img.icons8.com/color/96/git.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/144/css3.png" width="100"> | <img src="https://img.icons8.com/fluency/96/bootstrap.png" width="100"> | <img src="https://img.icons8.com/color/96/mongodb.png" width="100"> |
+
+
+</div>
+
+<br><br>
+<div align='center' width='100%'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+</div>
+<br><br>
+
+<div align='center' width='100%'>
+
+| <img src="https://img.icons8.com/office/160/react.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> | <img src="https://img.icons8.com/color/96/tailwind_css.png" width="100"> | <img src="https://img.icons8.com/color/96/nodejs.png" width="100"> | <img src="https://img.icons8.com/color/96/firebase.png" width="100"> |
+|--|--|--|--|--|
+| <img src="https://img.icons8.com/color/96/git.png" width="100"> | <img src="https://img.icons8.com/color/96/typescript.png" width="100"> | <img src="https://img.icons8.com/color/144/css3.png" width="100"> | <img src="https://img.icons8.com/fluency/96/bootstrap.png" width="100"> | <img src="https://img.icons8.com/color/96/mongodb.png" width="100"> |
+
 
 </div>
 
