@@ -39,7 +39,7 @@
 
 <div align='center' width='100%'>
 
-| <img src="https://img.icons8.com/color/96/solidity.png" width="100"> | <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.c3f28192.svg&w=384&q=75" width="100"> | <img src="https://img.icons8.com/color/96/ethereum.png" width="100"> | <img src="https://img.icons8.com/color/96/vue-js.png" width="100"> | <img src="https://img.icons8.com/color/96/javascript--v1.png" width="100"> |
+| <img src="https://img.icons8.com/color/96/solidity.png" width="100"> | <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.c3f28192.svg&w=384&q=75" width="100"> | <img src="https://img.icons8.com/color/96/ethereum.png" width="100"> | <img src="https://static.vecteezy.com/system/resources/thumbnails/042/382/061/small/web-3-0-3d-illustration-icon-png.png" width="100"> | <img src="https://images.seeklogo.com/logo-png/42/1/truffle-logo-png_seeklogo-426732.png" width="100"> |
 |--|--|--|--|--|
 | <img src="https://img.icons8.com/color/96/ganache.png" width="100"> | <img src="https://img.icons8.com/color/96/waffle.png" width="100"> | <img src="https://img.icons8.com/color/96/chai.png" width="100"> | <img src="https://img.icons8.com/color/96/metamask.png" width="100"> | <img src="https://img.icons8.com/color/96/ethers.png" width="100"> |
 
