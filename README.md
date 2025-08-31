@@ -41,7 +41,7 @@
 
 | <img src="https://img.icons8.com/color/96/solidity.png" width="100"> | <img src="https://hardhat.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhardhat-logo-dark.c3f28192.svg&w=384&q=75" width="100"> | <img src="https://img.icons8.com/color/96/ethereum.png" width="100"> | <img src="https://static.vecteezy.com/system/resources/thumbnails/042/382/061/small/web-3-0-3d-illustration-icon-png.png" width="100"> | <img src="https://logowik.com/content/uploads/images/truffle-suite8425.logowik.com.webp" width="100"> |
 |--|--|--|--|--|
-| <img src="https://images.seeklogo.com/logo-png/42/2/ganache-logo-png_seeklogo-426724.png" width="100"> | <img src="https://img.icons8.com/color/96/waffle.png" width="100"> | <img src="https://camo.githubusercontent.com/aadaadaede0d9d49b9445eaf9ffad39b10a38c531da4a2595b1ea4943a2ebf91/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/16297473?s=280&v=4" width="100"> |
+| <img src="https://next-stack.github.io/docs/ganache/images/ganache-logo.png" width="100"> | <img src="https://img.icons8.com/color/96/waffle.png" width="100"> | <img src="https://camo.githubusercontent.com/aadaadaede0d9d49b9445eaf9ffad39b10a38c531da4a2595b1ea4943a2ebf91/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png" width="100"> | <img src="https://avatars.githubusercontent.com/u/16297473?s=280&v=4" width="100"> |
 
 
 </div>
