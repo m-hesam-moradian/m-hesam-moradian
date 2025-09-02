@@ -49,15 +49,14 @@
 
 <br><br>
 <div align='center' width='100%'>
-<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools (🧪 Machine Learning & Data Engineering) </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+<img  width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > Skills & Tools (🧪 Machine Learning ) </span>  <img width='30%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 </div>
 <br><br>
 
 <div align='center' width='100%'>
 
-| <img src="https://img.icons8.com/color/96/python.png" width="100"> | <img src="https://img.icons8.com/color/96/excel.png" width="100"> | <img src="https://img.icons8.com/color/96/numpy.png" width="100"> | <img src="https://img.icons8.com/color/96/pandas.png" width="100"> | <img src="https://img.icons8.com/color/96/scikit-learn.png" width="100"> |
-|--|--|--|--|--|
-| <img src="https://img.icons8.com/color/96/data-management.png" width="100"> | <img src="https://img.icons8.com/color/96/statistics.png" width="100"> | <img src="https://img.icons8.com/color/96/optimization.png" width="100"> | <img src="https://img.icons8.com/color/96/deep-learning.png" width="100"> | <img src="https://img.icons8.com/color/96/jupyter.png" width="100"> |
+| <img src="https://img.icons8.com/color/96/python.png" width="100"> | <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="100"> | <img src="https://img.icons8.com/color/96/numpy.png" width="100"> | <img src="https://img.icons8.com/color/96/pandas.png" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="100"> |
+
 
 </div>
 
