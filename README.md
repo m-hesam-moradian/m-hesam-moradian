@@ -7,15 +7,6 @@
   <br><br>
 
 
-
-<div align="center">
-  
-<img  src='https://visitcount.itsvg.in/api?id=m-hesam-moradian&label=Profile%20Views&color=3&icon=5&prett'>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-hesam-moradian&label=Profile%20views&color=0e75b6&style=flat" alt="m-hesam-moradian" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-hesam-moradian" alt="m-hesam-moradian" /></a> </p>
-
-</div>
  
 <br><br>
 <div align='center' width='100%'>
