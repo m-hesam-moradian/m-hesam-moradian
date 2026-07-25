@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/m-hesam-moradian"><img src="https://img.shields.io/badge/LinkedIn-00FFF9?style=for-the-badge&logo=linkedin&logoColor=0D1117" /></a>
 <a href="mailto:m.hesam.moradian@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF00EA?style=for-the-badge&logo=gmail&logoColor=0D1117" /></a>
 <a href="https://t.me/sam_moradin1"><img src="https://img.shields.io/badge/Telegram-9D00FF?style=for-the-badge&logo=telegram&logoColor=FFFFFF" /></a>
-<a href="tel:+18059007207"><img src="https://img.shields.io/badge/%2B1_805_900_7207-39FF14?style=for-the-badge&logo=whatsapp&logoColor=0D1117" /></a>
+<a href="tel:+18059007207"><img src="https://img.shields.io/badge/%2B1_805_900_7207-00a71a?style=for-the-badge&logo=whatsapp&logoColor=0D1117" /></a>
 
 </div>
 
